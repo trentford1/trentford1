@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Obtala 
 - 👀 I’m a Machine Learning Engineer 
 - 🌱 I’m currently growing my Team at Augmented2.dev 
-- 💞️ I’m looking to collaborate on relevent projects 
+- 💞️ I’m looking to collaborate on relevant projects 
 - 📫 How to reach me: obt.v3@outlook.com 
 
 Daga horar da samfuran harshe na gida zuwa amfani da sabbin dabarun sarrafa harshe na zamani, fannin yana samun ci gaba cikin sauri! 
