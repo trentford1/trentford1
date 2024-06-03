@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on relevant projects 
 - 📫 How to reach me: obt.v3@outlook.com 
 
-Daga horar da samfuran harshe na gida zuwa amfani da sabbin dabarun sarrafa harshe na zamani, fannin yana samun ci gaba cikin sauri! 
+From training local language models to leveraging the latest natural language processing techniques, the field is rapidly evolving!
 
 <!---
 trentford1/trentford1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
